@@ -1,5 +1,5 @@
 {
-  "homepage": "https://boring-bhabha-ffb789.netlify.com/static/js/main.05db535a.js",
+  "homepage": "/",
   "predeploy": "npm run build",
   "dependencies": {
     "babel-preset-react": "^6.24.1",
